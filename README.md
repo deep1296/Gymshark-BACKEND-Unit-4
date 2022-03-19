@@ -5,7 +5,7 @@
 
 A fitness wear website cloning project by Team Sharks
  
-## Deployed link of projec
+## Deployed link of project
 - https://gymshark-team-shark.vercel.app/
 
 ## Team Members
